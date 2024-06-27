@@ -1,1 +1,1 @@
-
+**This folder contains a linear regression project i performed on a simulated dataset of sales of an e-commerce firm. The task was to find out the variable which affected the yearly amount spent by a customer the most.**
